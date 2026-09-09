@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "sha": "f673585102ede0440e50101f7f5c2907a6e0d980",
+    "short": "f673585",
+    "platform": "windows",
+    "repo": "MIpetrov-NI/Example-LabVIEW-Project",
+    "pages_url": "https://MIpetrov-NI.github.io/Example-LabVIEW-Project",
+    "pages_base": "../..",
+    "commit": {
+      "message": "add project",
+      "author": "MIpetrov-NI",
+      "date": "2026-09-09T14:30:19-05:00"
+    },
+    "generated_utc": "2026-09-09 20:01 UTC",
+    "analysis_date": "Wednesday, September 9, 2026 8:01:05 PM",
+    "duration": "00:00:07.80",
+    "configs": [
+      {
+        "label": "Source/LabVIEWCLIExampleProject/ConfigFile.viancfg",
+        "scope": "all VIs"
+      }
+    ]
+  },
+  "summary": {
+    "vis_analyzed": 3,
+    "tests_run": 69,
+    "passed": 69,
+    "failed": 0,
+    "skipped": 0,
+    "findings": 0,
+    "vis_with_findings": 0
+  },
+  "errors": {
+    "vi_not_loadable": 0,
+    "test_not_loadable": 0,
+    "test_not_runnable": 0,
+    "test_error_out": 0
+  },
+  "rule_counts": []
+}
