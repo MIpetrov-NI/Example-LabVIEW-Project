@@ -1,0 +1,18 @@
+[
+  {
+    "sha": "c90aa6894fd5bf5fa92889623fcb6fa88e50cce1",
+    "short": "c90aa68",
+    "message": "Add LabVIEW CI pipeline",
+    "author": "Milena",
+    "date": "2026-09-09T14:35:37-05:00",
+    "vi_count": 3
+  },
+  {
+    "sha": "f673585102ede0440e50101f7f5c2907a6e0d980",
+    "short": "f673585",
+    "message": "add project",
+    "author": "MIpetrov-NI",
+    "date": "2026-09-09T14:30:19-05:00",
+    "vi_count": 3
+  }
+]
