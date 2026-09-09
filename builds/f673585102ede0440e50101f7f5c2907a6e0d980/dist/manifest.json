@@ -1,0 +1,23 @@
+{
+    "repo":  "MIpetrov-NI/Example-LabVIEW-Project",
+    "sha":  "f673585102ede0440e50101f7f5c2907a6e0d980",
+    "ref":  "refs/heads/main",
+    "platform":  "windows",
+    "arch":  "AMD64",
+    "labview_version":  "LabVIEW 2026",
+    "built_at":  "2026-09-09T20:00:52Z",
+    "specs":  [
+                  {
+                      "project":  "Source\\LabVIEWCLIExampleProject\\LabVIEWCLIExampleProject.lvproj",
+                      "name":  "BasicMathOperations",
+                      "type":  "DLL",
+                      "target":  "My Computer",
+                      "status":  "built",
+                      "outputs":  [
+
+                                  ],
+                      "message":  "Built, but no output files were located (destination dir: \u0027C:\\workspace\\Source\\builds\\BasicMathOperations\u0027).",
+                      "duration":  34
+                  }
+              ]
+}

@@ -1,0 +1,22 @@
+=== ExecuteBuildSpec 'BasicMathOperations' [DLL] target 'My Computer' in Source\LabVIEWCLIExampleProject\LabVIEWCLIExampleProject.lvproj ===
+LabVIEWCLI started logging in file:  C:\Users\ContainerAdministrator\AppData\Local\Temp\lvtemporary_507992.log
+Using LabVIEW: "C:\Program Files\National Instruments\LabVIEW 2026\LabVIEW.exe"
+LabVIEW launched successfully.
+Connection established with LabVIEW at port number 3363.
+
+Operation output: 
+Generated files are:
+C:\workspace\Source\LabVIEWCLIExampleProject\builds\BasicMathOperations\BasicMathOperations.dll
+
+C:\workspace\Source\LabVIEWCLIExampleProject\builds\BasicMathOperations\BasicMathOperations.aliases
+
+C:\workspace\Source\LabVIEWCLIExampleProject\builds\BasicMathOperations\BasicMathOperations.ini
+
+C:\workspace\Source\LabVIEWCLIExampleProject\builds\BasicMathOperations\BasicMathOperations.h
+
+C:\workspace\Source\LabVIEWCLIExampleProject\builds\BasicMathOperations\BasicMathOperations.lib
+
+
+ExecuteBuildSpec operation succeeded.
+
+
