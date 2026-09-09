@@ -1,8 +1,17 @@
 {
   "schema": 1,
   "repo": "MIpetrov-NI/Example-LabVIEW-Project",
-  "sha": "c90aa6894fd5bf5fa92889623fcb6fa88e50cce1",
+  "sha": "023dd88a6f6b5735fcc5b5577159f28d37018500",
   "revisions": [
+    {
+      "sha": "023dd88a6f6b5735fcc5b5577159f28d37018500",
+      "short": "023dd88",
+      "message": "Update README",
+      "author": "Milena",
+      "date": "2026-09-09T19:55:20Z",
+      "project": false,
+      "dep_only": false
+    },
     {
       "sha": "c90aa6894fd5bf5fa92889623fcb6fa88e50cce1",
       "short": "c90aa68",
