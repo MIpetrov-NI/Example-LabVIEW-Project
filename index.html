@@ -241,7 +241,7 @@
     // the install/Configure iframe and its in-flight work. When a refresh comes due
     // with a dialog open, keep re-checking and reload only once it is closed.
     (function () {
-      var REFRESH_MS = 60 * 1000;
+      var REFRESH_MS = 900 * 1000;
       if (!(REFRESH_MS > 0)) return;
       function tick() {
         if (lvciModalOpen()) { setTimeout(tick, 5000); return; }
@@ -2091,7 +2091,7 @@
   </script>
   <main class="lvci-main">
   <h1>CI Dashboard — Example-LabVIEW-Project</h1>
-  <div class="sub">Last updated: 2026-09-10 00:57 UTC &nbsp;|&nbsp; Live — refreshing every 60 s while CI runs</div>
+  <div class="sub">Last updated: 2026-09-10 05:49 UTC &nbsp;|&nbsp; Auto-refreshes every 15 min</div>
   <div class="nav">
     <a href="https://github.com/MIpetrov-NI/Example-LabVIEW-Project">GitHub</a>
     <a href="https://github.com/MIpetrov-NI/Example-LabVIEW-Project/actions">Actions</a>
@@ -2190,7 +2190,7 @@
       <td style="text-align:center" class="cidash-cap-cell" data-cap="snapshots" data-sha="f673585102ede0440e50101f7f5c2907a6e0d980" data-parent="5ce1eec3499a5dca43ca930518a898b1a545c060" data-short="f673585" data-ts="" data-done="true"><span class="cidash-chip cc-info" title="Snapshots rendered for all 3 VIs in this revision"><a href="https://MIpetrov-NI.github.io/Example-LabVIEW-Project/vi-snapshots/index.html?sha=f673585102ede0440e50101f7f5c2907a6e0d980" style="color:inherit">3</a></span></td>
       <td style="text-align:center" class="cidash-cap-cell" data-cap="unit-tests" data-sha="f673585102ede0440e50101f7f5c2907a6e0d980" data-parent="5ce1eec3499a5dca43ca930518a898b1a545c060" data-short="f673585" data-ts="2026-09-09T20:00:22Z"><span class="cidash-chip cc-pass" title="No unit tests found; 0% failed."><svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L1.22 9.28a.75.75 0 1 1 1.06-1.06L6 11.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"/></svg><a href="https://MIpetrov-NI.github.io/Example-LabVIEW-Project/report/index.html?type=unit-tests-report&sha=f673585102ede0440e50101f7f5c2907a6e0d980&short=f673585&src=..%2Funit-tests%2Ff673585102ede0440e50101f7f5c2907a6e0d980%2Findex.html&title=Unit%20Tests%20%C2%B7%20f673585" style="color:inherit">0% failed</a></span></td>
       <td style="text-align:center;color:var(--fg-muted);font-size:.75em">—</td>
-      <td style="text-align:center" class="cidash-active-cell" data-cap="builds" data-sha="f673585102ede0440e50101f7f5c2907a6e0d980" data-parent="5ce1eec3499a5dca43ca930518a898b1a545c060" data-short="f673585" data-active="true"><span class="run-badge" title="Running — click to view progress"><a href="https://github.com/MIpetrov-NI/Example-LabVIEW-Project/actions/runs/34396989587" style="color:#fff;text-decoration:none;display:inline-flex;align-items:center;gap:5px"><span class="run-spin"></span>build</a></span></td>
+      <td style="text-align:center" class="cidash-cap-cell" data-cap="builds" data-sha="f673585102ede0440e50101f7f5c2907a6e0d980" data-parent="5ce1eec3499a5dca43ca930518a898b1a545c060" data-short="f673585" data-ts="2026-09-09T20:01:06Z"><span class="cidash-chip cc-split" title="1 built, 0 failed of 1 build specification(s)"><a href="https://MIpetrov-NI.github.io/Example-LabVIEW-Project/report/index.html?type=builds-report&sha=f673585102ede0440e50101f7f5c2907a6e0d980&short=f673585&src=..%2Fbuilds%2Ff673585102ede0440e50101f7f5c2907a6e0d980%2Findex.html&title=Builds%20%C2%B7%20f673585" style="color:inherit"><span class="cidash-vseg cc-pass" data-tip="Succeeded">1</span><span class="cidash-vseg-sep">/</span><span class="cidash-vseg cc-muted" data-tip="Failed">0</span></a></span></td>
     </tr>
 
     <tr data-project="false" data-deponly="false">
