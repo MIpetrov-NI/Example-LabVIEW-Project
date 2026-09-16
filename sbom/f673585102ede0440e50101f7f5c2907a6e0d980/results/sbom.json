@@ -13,7 +13,7 @@
       "name": "LabVIEWCLIExampleProject",
       "type": "application"
     },
-    "timestamp": "2026-09-16T21:24:45.800Z",
+    "timestamp": "2026-09-16T21:38:46.048Z",
     "tools": {
       "components": [
         {
@@ -25,7 +25,7 @@
       ]
     }
   },
-  "serialNumber": "urn:uuid:a14971c0-2598-483a-bca4-4c95bd7d9f59",
+  "serialNumber": "urn:uuid:52279721-8fa9-4b8c-873f-02e4e0794b84",
   "specVersion": "1.5",
   "version": 1
 }
