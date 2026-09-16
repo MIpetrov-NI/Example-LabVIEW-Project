@@ -1,0 +1,31 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.5.schema.json",
+  "bomFormat": "CycloneDX",
+  "components": [],
+  "dependencies": [
+    {
+      "ref": "pkg:vipm/LabVIEWCLIExampleProject"
+    }
+  ],
+  "metadata": {
+    "component": {
+      "bom-ref": "pkg:vipm/LabVIEWCLIExampleProject",
+      "name": "LabVIEWCLIExampleProject",
+      "type": "application"
+    },
+    "timestamp": "2026-09-16T21:24:45.800Z",
+    "tools": {
+      "components": [
+        {
+          "name": "vipm-cli",
+          "publisher": "JKI",
+          "type": "application",
+          "version": "2026.3.0"
+        }
+      ]
+    }
+  },
+  "serialNumber": "urn:uuid:a14971c0-2598-483a-bca4-4c95bd7d9f59",
+  "specVersion": "1.5",
+  "version": 1
+}
