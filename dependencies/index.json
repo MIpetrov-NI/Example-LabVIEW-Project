@@ -1,8 +1,17 @@
 {
   "schema": 1,
   "repo": "MIpetrov-NI/Example-LabVIEW-Project",
-  "sha": "6879e57702811e301c9429383833c79afd3efeed",
+  "sha": "54e0d768cd86e3c01390472ff4fa738abf150bbe",
   "revisions": [
+    {
+      "sha": "54e0d768cd86e3c01390472ff4fa738abf150bbe",
+      "short": "54e0d76",
+      "message": "ci: adopt LabVIEW CI tooling v4.18.4 (full update)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T14:35:13Z",
+      "project": false,
+      "dep_only": false
+    },
     {
       "sha": "6879e57702811e301c9429383833c79afd3efeed",
       "short": "6879e57",
